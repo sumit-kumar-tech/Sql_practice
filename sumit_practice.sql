@@ -1,11 +1,3 @@
-/*DQL(Data Query Language)
-Select
-
-DQL statement is used to performing queries onn the data within sehema object. The purpose of DQL command is to get some schema relation
-based on the query passed to it
-*/ 
-
-
 /* creating table assigning primary key, foreign key, creating database, dropping table and database */ 
 
 create database sumit;
